@@ -13,6 +13,10 @@ https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 
 `kubectl run nginx --image=nginx --dry-run=client -o yaml`
 
+### Extract the pod definition in YAML format to a file using the command
+
+kubectl get pod webapp -o yaml > my-new-pod.yaml
+
 ### Create a deployment
 
 `kubectl create deployment --image=nginx nginx`
