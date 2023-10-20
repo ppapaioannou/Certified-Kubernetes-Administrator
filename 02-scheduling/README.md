@@ -15,3 +15,5 @@ https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using
 
 ### Resource Management for Pods and Containers
 https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/
+https://kubernetes.io/docs/concepts/policy/limit-range/
