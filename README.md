@@ -14,3 +14,6 @@ https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
 ### Services
 https://kubernetes.io/docs/concepts/services-networking/service/
+
+### Namespaces
+https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
