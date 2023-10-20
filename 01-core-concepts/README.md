@@ -9,6 +9,9 @@ https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/
 ### Replica Set
 https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
 
+### Daemon Set
+https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
+
 ### Deployments
 https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
