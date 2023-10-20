@@ -1,5 +1,5 @@
 # Cheat sheet!
-https://kubernetes.io/docs/reference/kubectl/conventions/
+https://kubernetes.io/docs/reference/kubectl/conventions/ <br>
 https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 
 ### Create an NGINX Pod
