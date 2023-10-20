@@ -5,3 +5,6 @@ https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/
 
 ### Labels and Selectors
 https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
+
+### Taints and Tolerations
+https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/
