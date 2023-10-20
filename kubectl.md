@@ -6,6 +6,9 @@ https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 
 `kubectl run nginx --image=nginx`
 
+### Create a httpd pod with a service exposed at port 80
+`kubectl run httpd --image=httpd:alpine --port=80 --expose`
+
 ### Generate POD Manifest YAML file (-o yaml). Don't create it(--dry-run)
 
 `kubectl run nginx --image=nginx --dry-run=client -o yaml`
