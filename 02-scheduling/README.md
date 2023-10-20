@@ -12,3 +12,6 @@ https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/
 ### Assign Pods to Nodes
 https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/
 https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using-node-affinity/
+
+### Resource Management for Pods and Containers
+https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
