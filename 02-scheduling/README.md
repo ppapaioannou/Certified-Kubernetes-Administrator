@@ -1,5 +1,7 @@
 # Scheduling
 
-### https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/
+### Kubernetes Scheduler
+https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/
 
-### https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
+### Labels and Selectors
+https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
