@@ -1,4 +1,4 @@
-# Certified-Kubernetes-Administrator
+# Core Concepts
 
 ### Pods
 https://kubernetes.io/docs/concepts/workloads/pods/
