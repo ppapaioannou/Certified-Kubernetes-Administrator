@@ -20,3 +20,6 @@ https://kubernetes.io/docs/concepts/policy/limit-range/
 
 ### Create static Pods
 https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/
+
+### Configure Multiple Schedulers
+https://kubernetes.io/docs/tasks/extend-kubernetes/configure-multiple-schedulers/
