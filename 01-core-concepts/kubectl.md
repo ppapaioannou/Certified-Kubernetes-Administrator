@@ -15,7 +15,7 @@ https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 
 ### Extract the pod definition in YAML format to a file using the command
 
-kubectl get pod webapp -o yaml > my-new-pod.yaml
+`kubectl get pod webapp -o yaml > my-new-pod.yaml`
 
 ### Create a deployment
 
