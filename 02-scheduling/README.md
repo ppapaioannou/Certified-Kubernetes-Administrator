@@ -17,3 +17,6 @@ https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using
 https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
 https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/
 https://kubernetes.io/docs/concepts/policy/limit-range/
+
+### Create static Pods
+https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/
